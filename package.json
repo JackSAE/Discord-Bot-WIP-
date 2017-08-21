@@ -4,18 +4,18 @@
   "description": "A sound board bot",
   "main": "CheeseBotReformed.js",
   "scripts": {
-    "test": "`help"
+    "test": "sup"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JackSAE/GachaBot.git"
+    "url": "git+https://github.com/JackSAE/Discord-Bot-WIP-.git"
   },
   "author": "Cse",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JackSAE/GachaBot/issues"
+    "url": "https://github.com/JackSAE/Discord-Bot-WIP-/issues"
   },
-  "homepage": "https://github.com/JackSAE/GachaBot#readme",
+  "homepage": "https://github.com/JackSAE/Discord-Bot-WIP-#readme",
   "dependencies": {
     "chalk": "^2.1.0",
     "child_process": "^1.0.2",
