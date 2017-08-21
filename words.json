@@ -1,0 +1,207 @@
+{
+    "words": [
+        {
+            "Word": "sup",
+            "FileName": "sup"
+        },
+        {
+            "Word": "god",
+            "FileName": "OHMYGOD"
+        },
+        {
+            "Word": "yosh",
+            "FileName": "yosh"
+        },
+        {
+            "Word": "random",
+            "FileName": "random"
+        },
+        {
+            "Word": "ppap",
+            "FileName": "ppap"
+        },
+        {
+            "Word": "aichan",
+            "FileName": "aichan"
+        },
+        {
+            "Word": "dare",
+            "FileName": "Dare_desu_ka"
+        },
+        {
+            "Word": "onii",
+            "FileName": "Onii_Chan!!!!!!"
+        },
+        {
+            "Word": "chan",
+            "FileName": "Onii_Chan!!!!!!"
+        },
+        {
+            "Word": "dwamn",
+            "FileName": "Dwamn"
+        },
+        {
+            "Word": "boi",
+            "FileName": "BOI"
+        },
+        {
+            "Word": "yee",
+            "FileName": "Yee"
+        },
+        {
+            "Word": "fuck",
+            "FileName": "DONTGIVEAFUCK"
+        },
+        {
+            "Word": "nico",
+            "FileName": "Nico_Nico_ni"
+        },
+        {
+            "Word": "umi",
+            "FileName": "shitUmi_chan"
+        },
+        {
+            "Word": "surprise",
+            "FileName": "Surprise_mother_fker"
+        },
+        {
+            "Word": "woah",
+            "FileName": "WoahHeyGuys"
+        },
+        {
+            "Word": "copy that",
+            "FileName": "CopyThat"
+        },
+        {
+            "Word": "dadada",
+            "FileName": "DADADADADA"
+        },
+        {
+            "Word": "hentai",
+            "FileName": "Hentai"
+        },
+        {
+            "Word": "nemo",
+            "FileName": "nemo"
+        },
+        {
+            "Word": "ban",
+            "FileName": "BANNED"
+        },
+        {
+            "Word": "clang",
+            "FileName": "Berserk_CLANG"
+        },
+        {
+            "Word": "cunt",
+            "FileName": "CUNT"
+        },
+        {
+            "Word": "gotto",
+            "FileName": "GODDO"
+        },
+        {
+            "Word": "kazoo",
+            "FileName": "kazoo"
+        },
+        {
+            "Word": "kya",
+            "FileName": "Komata_Kya!"
+        },
+        {
+            "Word": "komata",
+            "FileName": "Komata_Kya!"
+        },
+        {
+            "Word": "pomf",
+            "FileName": "Pomf"
+        },
+        {
+            "Word": "poppy",
+            "FileName": "Poppy"
+        },
+        {
+            "Word": "komataog",
+            "FileName": "ShitKuroha"
+        },
+        {
+            "Word": "stfu",
+            "FileName": "STFU"
+        },
+        {
+            "Word": "shut the fuck up",
+            "FileName": "STFU"
+        },
+        {
+            "Word": "stupid",
+            "FileName": "stupid"
+        },
+        {
+            "Word": "suck",
+            "FileName": "sucky"
+        },
+        {
+            "Word": "sax",
+            "FileName": "Sax"
+        },
+        {
+            "Word": "speed",
+            "FileName": "speed"
+        },
+        {
+            "Word": "wagon",
+            "FileName": "speed"
+        },
+        {
+            "Word": "moon",
+            "FileName": "moonman"
+        },
+        {
+            "Word": "aWord",
+            "FileName": "test"
+        }
+    ],
+    "uniques": [
+        {
+            "uWord": "haha",
+            "uFileNames": [
+                {
+                    "FileName": "GAHAHA1"
+                },
+                {
+                    "FileName": "GAHAHA2"
+                },
+                {
+                    "FileName": "GAHAHA3"
+                },
+                {
+                    "FileName": "GAHAHA4"
+                },
+                {
+                    "FileName": "GAHAHA5"
+                }
+            ]
+        },
+        {
+            "uWord": "baka",
+            "uFileNames": [
+                {
+                    "FileName": "Baka1"
+                },
+                {
+                    "FileName": "Baka2"
+                }
+            ]
+        }
+    ],
+    "UserWords": [
+        {
+            "userID": "111281324601430016",
+            "word": "please",
+            "startTime": 1,
+            "endTime": 10,
+            "link": "https://www.youtube.com/watch?v=atuFSv2bLa8",
+            "Filename": "./Audio/UserWords/please"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+node_modules
+auth.json
+*.mp3
+*.mp4
+UnEditted_Audio
+run_reformed.bat
+processID.txt

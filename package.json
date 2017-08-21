@@ -1,0 +1,28 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "A sound board bot",
+  "main": "CheeseBotReformed.js",
+  "scripts": {
+    "test": "`help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackSAE/GachaBot.git"
+  },
+  "author": "Cse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JackSAE/GachaBot/issues"
+  },
+  "homepage": "https://github.com/JackSAE/GachaBot#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "child_process": "^1.0.2",
+    "discord.js": "^11.1.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security",
+    "load-json-file": "^3.0.0",
+    "ytdl-core": "^0.16.0"
+  }
+}
